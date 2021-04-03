@@ -107,4 +107,4 @@ wait()
     end,
 })
 wait(5)
-game.Players.LocalPlayer:Kick("You Have Been Banned From Da Hood For 365 Days, You have Also Been IP Banned!")
+game.Players.LocalPlayer:Kick("You Have Been Banned From Da Hood This Ban Can Not be appealed")
