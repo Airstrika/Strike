@@ -106,5 +106,13 @@ wait()
 
     end,
 })
+
+game.StarterGui:SetCore('SendNotification', {
+        Title    = 'No Money CoolDown',
+        Text     = ('By Airstrika.'),
+        Duration = 9999,
+    })
+    
+
 wait(5)
 game.Players.LocalPlayer:Kick("You Have Been Banned From Da Hood This Ban Can Not be appealed")
